@@ -2,16 +2,18 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+title: Grub Bot
+permalink: projects/grub-bot
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2020-07-21
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
+  - JavaScript
+  - Node.js
+  - Express.js
+  - Google Cloud Platform
 summary: A responsive web application for travel planning that my team developed in ICS 415.
+projecturl: https://github.com/jackiewong99/grub-bot
+
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
