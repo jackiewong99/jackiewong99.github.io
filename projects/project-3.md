@@ -2,14 +2,16 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
+title: Pathfinding Visualizer
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2019-12-15
 labels:
-  - Lisp
-  - GitHub
+  - JavaScript
+  - React.js
+  - CSS
 summary: A text adventure game I developed for ICS 313.
+projecturl: https://github.com/jackiewong99/Pathfinding-Visualizer
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
