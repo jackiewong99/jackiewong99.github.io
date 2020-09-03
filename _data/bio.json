@@ -29,17 +29,22 @@
   },
   "interests": [
     {
-      "name": "software engineering",
+      "name": "Software Engineering",
       "keywords": [
       ]
     },
     {
-      "name": "web development",
+      "name": "Software Development",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Web Development",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Artificial Intelligence",
       "keywords": [
       ]
     }
