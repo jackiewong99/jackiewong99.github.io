@@ -2,15 +2,17 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+title: Form Validation
+permalink: projects/form-validation
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2020-08-08
 labels:
-  - Robotics
-  - Arduino
-  - C++
+  - Vue.js
+  - Node.js
+  - Firebase
 summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+projecturl: https://github.com/jackiewong99/form-validation
+
 ---
 
 <div class="ui small rounded images">
