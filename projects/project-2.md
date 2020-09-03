@@ -10,6 +10,7 @@ labels:
   - JavaScript
   - Node.js
   - Express.js
+  - SCSS
   - Google Cloud Platform
 summary: A responsive web application for travel planning that my team developed in ICS 415.
 projecturl: https://github.com/jackiewong99/grub-bot
