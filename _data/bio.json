@@ -58,8 +58,9 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "React.js",
+        "Vue.js",
+        "Node.js"
       ]
     },
     {
@@ -69,8 +70,7 @@
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Firebase CLI"
       ]
     }
   ],
