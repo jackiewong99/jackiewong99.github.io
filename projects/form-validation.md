@@ -13,7 +13,7 @@ labels:
 summary: A project that validates data input in a form using regular expressions and Firebase.
 ---
 
-  <img class="ui image" src="../images/form-validation.png">
+  <img class="ui rounded image" src="../images/form-validation.png">
 
 Form Validation is a project that I created by myself. I decided to take on this project because after researching some common tasks in web development, I found that validating form data is a common occurrence in web development. As I am not exactly well versed in what the industry standard is with validating form data other than emails, I figured that one way to approaching this project is to learn [regular expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions) (RegEx) and validate form data through character patterns. As for contribution to this project, like I said in the beginning, this was a completely solo project that I wanted to take on out of my own interest. I suppose you could say I was the project manager, lead programmer, lead designer, and lead this and that.
 
