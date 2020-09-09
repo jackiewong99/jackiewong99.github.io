@@ -18,6 +18,11 @@ body {
 
 .no-bottom a {
   color: #000000;
+  transition: 0.3s ease-in;
+}
+
+.no-bottom a:hover {
+  color: #ffffff;
 }
 
 // Customize the home page icon colors
