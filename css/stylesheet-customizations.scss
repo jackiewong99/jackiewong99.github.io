@@ -11,6 +11,15 @@ body {
  background-attachment: fixed;
 }
 
+.no-bottom a {
+  color: #004680;
+  transition: 0.3s ease-in;
+}
+
+.no-bottom a:hover {
+  color: #4b8abf;
+}
+
 // Customize the menubar color
 .ui.menu {
   // background: $background-start;
