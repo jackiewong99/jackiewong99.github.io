@@ -7,8 +7,8 @@
 
 // Customize the background color
 body {
- background: linear-gradient(157deg, #f9f8eb, #f6f7d4, #a7d7c5);
- background-attachment: fixed;
+  background: linear-gradient(157deg, #f9f8eb, #f6f7d4, #a7d7c5);
+  background-attachment: fixed;
 }
 
 .no-bottom a {
@@ -28,5 +28,9 @@ body {
 // Customize the home page icon colors
 .icon-color {
   color: #004680;
+  transition: 0.3s ease-in;
 }
 
+.icon-color:hover {
+  color: #9cd1ff;
+}
