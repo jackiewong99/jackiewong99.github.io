@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Not So Quick Styling
-date: 2020-010-08
+date: 2020-10-08
 labels:
   - Software Engineering
   - UI Frameworks
