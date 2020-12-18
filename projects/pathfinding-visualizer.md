@@ -21,8 +21,8 @@ In this project, I definitely learned a whole lot. The bulk of the learning was 
 
 The next elephant in the room, was implementing Dijkstra's algorithm and creating a program that can visualize it. When practicing Dijkstra's algorithm or any other algorithm for that matter, it is easy to do so with paper and pencil, however it is a completely new challenge to translate that knowledge to actual code. This required me to really sit down and study Dijkstra's algorithm and then implement it in JavaScript. Finally, the last bit of challenges were implementing Dijkstra's algorithm code into the grid visualizer and creating the animation.
 
-This project is a hard challenge for beginners, however I definitely recommend other to try to build this project as it really exercises your brain and it is satisfying to see the finished product.
+This project is a hard challenge for beginners, however I definitely recommend others to try to build this project as it really exercises your brain and it is satisfying to see the finished product.
 
-One important note though, this project is not responsive. If you try to view this project on a mobile or tablet, you'll be met with an ugly visualizer.
+One important note though, this project is not responsive. If you try to view this project on a mobile device or a tablet, you will be met with an ugly visualizer.
 
 You can check out the project's repository [here](https://github.com/jackiewong99/Pathfinding-Visualizer).
