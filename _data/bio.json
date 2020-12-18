@@ -30,23 +30,19 @@
   "interests": [
     {
       "name": "Software Engineering",
-      "keywords": [
-      ]
+      "keywords": []
     },
     {
       "name": "Software Development",
-      "keywords": [
-      ]
+      "keywords": []
     },
     {
       "name": "Web Development",
-      "keywords": [
-      ]
+      "keywords": []
     },
     {
       "name": "Artificial Intelligence",
-      "keywords": [
-      ]
+      "keywords": []
     }
   ],
   "skills": [
@@ -60,18 +56,15 @@
         "Javascript",
         "React.js",
         "Vue.js",
-        "Node.js"
+        "Node.js",
+        "SCSS",
+        "Semantic UI"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "Firebase CLI"
-      ]
+      "keywords": ["MacOS", "Ubuntu", "Git/GitHub", "Firebase CLI"]
     }
   ],
   "education": [
@@ -82,11 +75,7 @@
       "startDate": "2017-08-21",
       "endDate": "Present",
       "gpa": "",
-      "courses": [
-        "Data Structures",
-        "Algorithms (currently enrolled)",
-        "Software Engineering (currently enrolled)"
-      ]
+      "courses": ["Data Structures", "Algorithms", "Software Engineering"]
     }
   ],
   "work": [
@@ -103,7 +92,7 @@
       "endDate": "2020-03-20",
       "highlights": [
         "Provide family-friendly customer service and practice upselling techniques.",
-        "Influenced ideas for store product rearrangement.", 
+        "Influenced ideas for store product rearrangement.",
         "Took product photos for social media and POS system."
       ]
     }
