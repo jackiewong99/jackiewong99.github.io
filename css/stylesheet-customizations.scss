@@ -20,6 +20,10 @@ body {
   color: #9cd1ff;
 }
 
+.no-bottom a:active {
+  opacity: 0.4;
+}
+
 // Customize the menubar color
 .ui.menu {
   // background: $background-start;
